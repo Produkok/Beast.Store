@@ -1,0 +1,937 @@
+[22-Apr-2023 00:35:56 Asia/Jakarta] PHP Warning:  Array to string conversion in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[22-Apr-2023 00:35:56 Asia/Jakarta] PHP Warning:  Undefined variable $Array in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[22-Apr-2023 00:35:56 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[22-Apr-2023 00:46:27 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[22-Apr-2023 00:46:27 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 61
+[22-Apr-2023 00:46:44 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[22-Apr-2023 00:46:44 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 61
+[22-Apr-2023 00:46:45 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 00:46:45 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 00:46:46 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 675
+[22-Apr-2023 00:46:59 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[22-Apr-2023 00:46:59 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 61
+[22-Apr-2023 00:47:01 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 00:47:01 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 00:47:03 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 675
+[22-Apr-2023 00:47:58 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[22-Apr-2023 00:47:58 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 61
+[22-Apr-2023 00:47:59 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 00:47:59 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 00:48:12 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[22-Apr-2023 00:48:12 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 61
+[22-Apr-2023 00:48:14 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 00:48:14 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 00:48:15 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 675
+[22-Apr-2023 00:48:44 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[22-Apr-2023 00:48:44 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 61
+[22-Apr-2023 00:48:46 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 00:48:46 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 00:48:48 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 675
+[22-Apr-2023 00:48:58 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[22-Apr-2023 00:48:58 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 61
+[22-Apr-2023 00:49:00 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 00:49:00 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 00:49:13 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[22-Apr-2023 00:49:13 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 61
+[22-Apr-2023 00:49:13 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[22-Apr-2023 00:49:13 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 61
+[22-Apr-2023 00:49:15 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 00:49:15 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 00:49:15 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 00:49:15 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 00:49:16 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 675
+[22-Apr-2023 00:49:18 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 675
+[22-Apr-2023 00:49:18 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[22-Apr-2023 00:49:18 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 61
+[22-Apr-2023 00:49:20 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 00:49:20 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 00:49:20 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 675
+[22-Apr-2023 00:49:31 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 675
+[22-Apr-2023 00:50:24 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[22-Apr-2023 00:50:24 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 61
+[22-Apr-2023 00:50:26 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 00:50:26 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 00:50:28 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 675
+[22-Apr-2023 00:54:11 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[22-Apr-2023 00:54:11 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 61
+[22-Apr-2023 00:54:57 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[22-Apr-2023 00:54:57 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 61
+[22-Apr-2023 00:54:59 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 00:54:59 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 00:54:59 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 675
+[22-Apr-2023 00:56:03 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[22-Apr-2023 00:56:03 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 61
+[22-Apr-2023 00:59:55 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[22-Apr-2023 00:59:55 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 61
+[22-Apr-2023 00:59:56 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 00:59:56 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 01:00:20 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 675
+[22-Apr-2023 01:00:20 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:678
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(678): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 678
+[22-Apr-2023 01:00:28 Asia/Jakarta] PHP Warning:  Array to string conversion in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[22-Apr-2023 01:00:28 Asia/Jakarta] PHP Warning:  Undefined variable $Array in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[22-Apr-2023 01:00:28 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[22-Apr-2023 01:00:53 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[22-Apr-2023 01:00:53 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 61
+[22-Apr-2023 01:00:55 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 01:00:55 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 01:00:55 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 675
+[22-Apr-2023 01:01:20 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[22-Apr-2023 01:01:20 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 61
+[22-Apr-2023 01:01:29 Asia/Jakarta] PHP Warning:  Array to string conversion in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[22-Apr-2023 01:01:29 Asia/Jakarta] PHP Warning:  Undefined variable $Array in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[22-Apr-2023 01:01:29 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[22-Apr-2023 01:02:37 Asia/Jakarta] PHP Warning:  Array to string conversion in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[22-Apr-2023 01:02:37 Asia/Jakarta] PHP Warning:  Undefined variable $Array in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[22-Apr-2023 01:02:37 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[22-Apr-2023 01:07:58 Asia/Jakarta] PHP Warning:  Undefined array key "metode" in /home/topu3025/public_html/functions/topup.php on line 29
+[22-Apr-2023 01:07:58 Asia/Jakarta] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/topu3025/public_html/functions/topup.php on line 30
+[22-Apr-2023 01:07:58 Asia/Jakarta] PHP Warning:  Undefined array key 1 in /home/topu3025/public_html/functions/topup.php on line 32
+[22-Apr-2023 01:07:58 Asia/Jakarta] PHP Warning:  Undefined array key 2 in /home/topu3025/public_html/functions/topup.php on line 33
+[22-Apr-2023 01:10:07 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[22-Apr-2023 01:10:07 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 61
+[22-Apr-2023 01:46:33 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[22-Apr-2023 01:46:33 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 61
+[22-Apr-2023 01:46:35 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 01:46:35 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 01:46:55 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 675
+[22-Apr-2023 01:46:55 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:678
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(678): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 678
+[22-Apr-2023 01:47:02 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[22-Apr-2023 01:47:02 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 61
+[22-Apr-2023 01:47:03 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 01:47:03 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 01:47:03 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 675
+[22-Apr-2023 02:09:17 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 61
+[22-Apr-2023 02:09:19 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 02:09:19 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 02:09:20 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 675
+[22-Apr-2023 02:12:20 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 61
+[22-Apr-2023 02:12:21 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 02:12:21 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 02:12:31 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 61
+[22-Apr-2023 02:12:33 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 02:12:33 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 02:12:33 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 675
+[22-Apr-2023 02:29:22 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 61
+[22-Apr-2023 02:30:53 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 61
+[22-Apr-2023 02:30:55 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 02:30:55 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 606
+[22-Apr-2023 02:31:07 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 61
+[22-Apr-2023 02:31:18 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 675
+[22-Apr-2023 02:31:18 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:678
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(678): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 678
+[22-Apr-2023 02:35:00 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 673
+[22-Apr-2023 02:36:43 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 673
+[22-Apr-2023 02:39:17 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 673
+[22-Apr-2023 02:40:54 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 673
+[22-Apr-2023 02:40:54 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:676
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(676): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 676
+[22-Apr-2023 02:40:56 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 673
+[22-Apr-2023 02:45:09 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 673
+[22-Apr-2023 02:45:09 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:676
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(676): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 676
+[22-Apr-2023 02:45:11 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 673
+[22-Apr-2023 03:01:24 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 674
+[22-Apr-2023 03:01:24 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:677
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(677): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 677
+[22-Apr-2023 03:01:29 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 674
+[22-Apr-2023 03:03:06 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 674
+[22-Apr-2023 03:03:06 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:677
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(677): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 677
+[22-Apr-2023 03:03:07 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 674
+[22-Apr-2023 03:10:41 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 676
+[22-Apr-2023 03:10:41 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:679
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(679): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 679
+[22-Apr-2023 03:10:43 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 676
+[22-Apr-2023 03:20:20 Asia/Jakarta] PHP Warning:  Undefined array key "pinTrx" in /home/topu3025/public_html/functions/order_saldo.php on line 7
+[22-Apr-2023 03:20:20 Asia/Jakarta] PHP Deprecated:  md5(): Passing null to parameter #1 ($string) of type string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 7
+[22-Apr-2023 03:20:20 Asia/Jakarta] PHP Warning:  Undefined array key "trxID" in /home/topu3025/public_html/functions/order_saldo.php on line 8
+[22-Apr-2023 03:20:20 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/order_saldo.php on line 22
+[22-Apr-2023 04:00:18 Asia/Jakarta] PHP Warning:  Undefined variable $usersID in /home/topu3025/public_html/functions/order_saldo.php on line 33
+[22-Apr-2023 04:00:18 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/order_saldo.php on line 35
+[22-Apr-2023 04:01:36 Asia/Jakarta] PHP Warning:  Undefined variable $usersID in /home/topu3025/public_html/functions/order_saldo.php on line 33
+[22-Apr-2023 04:01:36 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/order_saldo.php on line 35
+[22-Apr-2023 04:03:09 Asia/Jakarta] PHP Warning:  Undefined variable $usersID in /home/topu3025/public_html/functions/order_saldo.php on line 33
+[22-Apr-2023 04:03:09 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/order_saldo.php on line 35
+[22-Apr-2023 04:05:00 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 493
+[22-Apr-2023 04:05:00 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:496
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(496): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 496
+[22-Apr-2023 04:05:02 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 493
+[22-Apr-2023 04:06:27 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 493
+[22-Apr-2023 04:19:33 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:497
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(497): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 497
+[22-Apr-2023 04:21:03 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:497
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(497): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 497
+[22-Apr-2023 06:45:05 Asia/Jakarta] PHP Warning:  Array to string conversion in /home/topu3025/public_html/functions/topup.php on line 115
+[22-Apr-2023 07:12:58 Asia/Jakarta] PHP Warning:  Undefined array key "metode" in /home/topu3025/public_html/functions/topup.php on line 29
+[22-Apr-2023 07:12:58 Asia/Jakarta] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/topu3025/public_html/functions/topup.php on line 30
+[22-Apr-2023 07:12:58 Asia/Jakarta] PHP Warning:  Undefined array key 1 in /home/topu3025/public_html/functions/topup.php on line 32
+[22-Apr-2023 07:12:58 Asia/Jakarta] PHP Warning:  Undefined array key 2 in /home/topu3025/public_html/functions/topup.php on line 33
+[22-Apr-2023 07:13:17 Asia/Jakarta] PHP Warning:  Array to string conversion in /home/topu3025/public_html/functions/topup.php on line 115
+[22-Apr-2023 07:14:04 Asia/Jakarta] PHP Warning:  Array to string conversion in /home/topu3025/public_html/functions/topup.php on line 115
+[22-Apr-2023 21:54:19 Asia/Jakarta] PHP Warning:  Array to string conversion in /home/topu3025/public_html/functions/topup.php on line 115
+[22-Apr-2023 21:54:55 Asia/Jakarta] PHP Warning:  Array to string conversion in /home/topu3025/public_html/functions/topup.php on line 115
+[22-Apr-2023 21:58:17 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[22-Apr-2023 21:58:17 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[22-Apr-2023 21:58:19 Asia/Jakarta] PHP Warning:  Undefined variable $productTitle in /home/topu3025/public_html/functions/order_saldo.php on line 381
+[22-Apr-2023 22:01:47 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[22-Apr-2023 22:01:47 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[22-Apr-2023 22:01:49 Asia/Jakarta] PHP Warning:  Undefined variable $productTitle in /home/topu3025/public_html/functions/order_saldo.php on line 381
+[22-Apr-2023 22:12:20 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[22-Apr-2023 22:12:20 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[22-Apr-2023 22:12:22 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[22-Apr-2023 22:12:22 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[22-Apr-2023 22:12:22 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 680
+[22-Apr-2023 22:13:54 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[22-Apr-2023 22:13:54 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[22-Apr-2023 22:13:56 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[22-Apr-2023 22:13:56 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[22-Apr-2023 22:13:56 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 680
+[22-Apr-2023 23:03:33 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[22-Apr-2023 23:03:33 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[22-Apr-2023 23:03:35 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/order_saldo.php on line 121
+[23-Apr-2023 02:43:56 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 02:43:56 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 02:43:58 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[23-Apr-2023 02:43:58 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[23-Apr-2023 02:44:00 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 680
+[23-Apr-2023 02:45:34 Asia/Jakarta] PHP Warning:  Array to string conversion in /home/topu3025/public_html/functions/topup.php on line 115
+[23-Apr-2023 02:45:34 Asia/Jakarta] PHP Warning:  Undefined array key "data" in /home/topu3025/public_html/functions/topup.php on line 118
+[23-Apr-2023 02:45:34 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/topup.php on line 118
+[23-Apr-2023 02:45:34 Asia/Jakarta] PHP Warning:  Undefined array key "data" in /home/topu3025/public_html/functions/topup.php on line 119
+[23-Apr-2023 02:45:34 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/topup.php on line 119
+[23-Apr-2023 02:45:34 Asia/Jakarta] PHP Warning:  Undefined array key "data" in /home/topu3025/public_html/functions/topup.php on line 120
+[23-Apr-2023 02:45:34 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/topup.php on line 120
+[23-Apr-2023 02:45:34 Asia/Jakarta] PHP Warning:  Undefined array key "data" in /home/topu3025/public_html/functions/topup.php on line 121
+[23-Apr-2023 02:45:34 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/topup.php on line 121
+[23-Apr-2023 02:45:34 Asia/Jakarta] PHP Warning:  Undefined array key "data" in /home/topu3025/public_html/functions/topup.php on line 122
+[23-Apr-2023 02:45:34 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/topup.php on line 122
+[23-Apr-2023 02:45:34 Asia/Jakarta] PHP Warning:  Undefined array key "data" in /home/topu3025/public_html/functions/topup.php on line 123
+[23-Apr-2023 02:45:34 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/topup.php on line 123
+[23-Apr-2023 02:45:34 Asia/Jakarta] PHP Warning:  Undefined array key "data" in /home/topu3025/public_html/functions/topup.php on line 125
+[23-Apr-2023 02:45:34 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/topup.php on line 125
+[23-Apr-2023 02:45:34 Asia/Jakarta] PHP Warning:  Undefined array key "data" in /home/topu3025/public_html/functions/topup.php on line 127
+[23-Apr-2023 02:45:34 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/topup.php on line 127
+[23-Apr-2023 02:45:34 Asia/Jakarta] PHP Warning:  Undefined array key "data" in /home/topu3025/public_html/functions/topup.php on line 128
+[23-Apr-2023 02:45:34 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/topup.php on line 128
+[23-Apr-2023 02:45:34 Asia/Jakarta] PHP Warning:  Undefined array key "data" in /home/topu3025/public_html/functions/topup.php on line 129
+[23-Apr-2023 02:45:34 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/topup.php on line 129
+[23-Apr-2023 03:11:36 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 03:11:36 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 03:11:38 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/order_saldo.php on line 202
+[23-Apr-2023 03:14:17 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 03:14:17 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 03:14:19 Asia/Jakarta] PHP Warning:  Undefined variable $productTitle in /home/topu3025/public_html/functions/order_saldo.php on line 467
+[23-Apr-2023 06:23:59 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 06:23:59 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 06:37:01 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 06:37:01 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 07:20:35 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 07:20:35 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 08:12:25 Asia/Jakarta] PHP Warning:  Undefined array key "metode" in /home/topu3025/public_html/functions/topup.php on line 29
+[23-Apr-2023 08:12:25 Asia/Jakarta] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/topu3025/public_html/functions/topup.php on line 30
+[23-Apr-2023 08:12:25 Asia/Jakarta] PHP Warning:  Undefined array key 1 in /home/topu3025/public_html/functions/topup.php on line 32
+[23-Apr-2023 08:12:25 Asia/Jakarta] PHP Warning:  Undefined array key 2 in /home/topu3025/public_html/functions/topup.php on line 33
+[23-Apr-2023 08:12:54 Asia/Jakarta] PHP Warning:  Array to string conversion in /home/topu3025/public_html/functions/topup.php on line 115
+[23-Apr-2023 13:33:29 Asia/Jakarta] PHP Warning:  Array to string conversion in /home/topu3025/public_html/functions/topup.php on line 115
+[23-Apr-2023 13:33:29 Asia/Jakarta] PHP Warning:  Undefined array key "data" in /home/topu3025/public_html/functions/topup.php on line 118
+[23-Apr-2023 13:33:29 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/topup.php on line 118
+[23-Apr-2023 13:33:29 Asia/Jakarta] PHP Warning:  Undefined array key "data" in /home/topu3025/public_html/functions/topup.php on line 119
+[23-Apr-2023 13:33:29 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/topup.php on line 119
+[23-Apr-2023 13:33:29 Asia/Jakarta] PHP Warning:  Undefined array key "data" in /home/topu3025/public_html/functions/topup.php on line 120
+[23-Apr-2023 13:33:29 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/topup.php on line 120
+[23-Apr-2023 13:33:29 Asia/Jakarta] PHP Warning:  Undefined array key "data" in /home/topu3025/public_html/functions/topup.php on line 121
+[23-Apr-2023 13:33:29 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/topup.php on line 121
+[23-Apr-2023 13:33:29 Asia/Jakarta] PHP Warning:  Undefined array key "data" in /home/topu3025/public_html/functions/topup.php on line 122
+[23-Apr-2023 13:33:29 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/topup.php on line 122
+[23-Apr-2023 13:33:29 Asia/Jakarta] PHP Warning:  Undefined array key "data" in /home/topu3025/public_html/functions/topup.php on line 123
+[23-Apr-2023 13:33:29 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/topup.php on line 123
+[23-Apr-2023 13:33:29 Asia/Jakarta] PHP Warning:  Undefined array key "data" in /home/topu3025/public_html/functions/topup.php on line 125
+[23-Apr-2023 13:33:29 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/topup.php on line 125
+[23-Apr-2023 13:33:29 Asia/Jakarta] PHP Warning:  Undefined array key "data" in /home/topu3025/public_html/functions/topup.php on line 127
+[23-Apr-2023 13:33:29 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/topup.php on line 127
+[23-Apr-2023 13:33:29 Asia/Jakarta] PHP Warning:  Undefined array key "data" in /home/topu3025/public_html/functions/topup.php on line 128
+[23-Apr-2023 13:33:29 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/topup.php on line 128
+[23-Apr-2023 13:33:29 Asia/Jakarta] PHP Warning:  Undefined array key "data" in /home/topu3025/public_html/functions/topup.php on line 129
+[23-Apr-2023 13:33:29 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/topup.php on line 129
+[23-Apr-2023 22:28:17 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 22:28:17 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 22:55:20 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 22:55:20 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 22:56:56 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 22:56:56 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:02:55 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:02:55 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:06:58 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:06:58 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:09:19 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:09:19 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:15:52 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:15:52 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:16:52 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:16:52 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:16:53 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:16:53 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:16:55 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:16:55 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:16:57 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:16:57 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:16:58 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:16:58 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:20:03 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:20:03 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:20:05 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:20:05 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:20:06 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:20:06 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:20:07 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:20:07 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:26:17 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:26:17 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:26:19 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:26:19 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:26:20 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:26:20 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:31:34 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:31:34 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:31:36 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:31:36 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:32:32 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:32:32 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:33:25 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:33:25 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:33:27 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:33:27 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:36:42 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:36:42 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:36:44 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:36:44 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:36:45 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:36:46 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:36:46 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:36:46 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:38:45 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:38:45 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:40:15 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:40:15 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:40:17 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:40:17 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:41:15 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:41:15 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:41:15 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:41:15 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:41:16 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:41:16 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:41:16 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:41:16 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:41:17 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:41:17 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:41:17 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:41:17 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:41:18 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:41:18 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:41:18 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:41:18 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:41:20 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:41:20 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:41:20 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:41:20 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:49 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:49 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:49 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:49 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:49 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:49 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:49 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:49 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:49 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:49 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:50 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:50 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:50 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:50 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:50 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:50 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:50 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:50 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:50 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:50 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:50 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:50 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:50 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:50 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:51 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:51 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:51 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:51 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:51 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:51 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:51 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:51 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:51 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:51 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:52 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:52 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:52 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:52 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:52 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:52 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:52 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:52 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:52 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:52 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:52 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:52 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:53 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:53 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:53 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:53 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:53 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:53 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:54 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:54 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:54 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:54 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:54 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:54 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:54 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:54 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:54 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:54 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:54 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:54 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:55 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:55 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:56 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:56 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:57 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:57 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:57 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:57 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:58 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:58 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:58 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:58 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:58 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:58 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:58 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:58 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:58 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:58 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:59 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:59 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:59 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:59 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:59 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:59 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:59 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:59 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:59 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:59 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:59 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:59 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:42:59 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:42:59 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:43:00 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:43:00 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:50:35 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:50:35 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[23-Apr-2023 23:51:25 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[23-Apr-2023 23:51:25 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 00:42:55 Asia/Jakarta] PHP Warning:  Array to string conversion in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 00:42:55 Asia/Jakarta] PHP Warning:  Undefined variable $Array in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 00:42:55 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 00:43:50 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 00:43:50 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 00:44:48 Asia/Jakarta] PHP Warning:  Array to string conversion in /home/topu3025/public_html/functions/topup.php on line 115
+[24-Apr-2023 00:48:21 Asia/Jakarta] PHP Warning:  Array to string conversion in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 00:48:21 Asia/Jakarta] PHP Warning:  Undefined variable $Array in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 00:48:21 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 00:50:15 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 00:50:15 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 00:51:29 Asia/Jakarta] PHP Warning:  Array to string conversion in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 00:51:29 Asia/Jakarta] PHP Warning:  Undefined variable $Array in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 00:51:29 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 00:57:44 Asia/Jakarta] PHP Warning:  Undefined array key "metode" in /home/topu3025/public_html/functions/topup.php on line 29
+[24-Apr-2023 00:57:44 Asia/Jakarta] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/topu3025/public_html/functions/topup.php on line 30
+[24-Apr-2023 00:57:44 Asia/Jakarta] PHP Warning:  Undefined array key 1 in /home/topu3025/public_html/functions/topup.php on line 32
+[24-Apr-2023 00:57:44 Asia/Jakarta] PHP Warning:  Undefined array key 2 in /home/topu3025/public_html/functions/topup.php on line 33
+[24-Apr-2023 01:01:06 Asia/Jakarta] PHP Warning:  Array to string conversion in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 01:01:06 Asia/Jakarta] PHP Warning:  Undefined variable $Array in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 01:01:06 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 01:02:04 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/topup.php on line 118
+[24-Apr-2023 01:02:04 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/topup.php:132
+Stack trace:
+#0 /home/topu3025/public_html/functions/topup.php(132): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/topup.php on line 132
+[24-Apr-2023 01:04:11 Asia/Jakarta] PHP Warning:  Undefined array key "metode" in /home/topu3025/public_html/functions/topup.php on line 29
+[24-Apr-2023 01:04:11 Asia/Jakarta] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/topu3025/public_html/functions/topup.php on line 30
+[24-Apr-2023 01:04:11 Asia/Jakarta] PHP Warning:  Undefined array key 1 in /home/topu3025/public_html/functions/topup.php on line 32
+[24-Apr-2023 01:04:11 Asia/Jakarta] PHP Warning:  Undefined array key 2 in /home/topu3025/public_html/functions/topup.php on line 33
+[24-Apr-2023 01:04:23 Asia/Jakarta] PHP Warning:  Array to string conversion in /home/topu3025/public_html/functions/topup.php on line 115
+[24-Apr-2023 01:06:58 Asia/Jakarta] PHP Warning:  Array to string conversion in /home/topu3025/public_html/functions/topup.php on line 115
+[24-Apr-2023 01:08:07 Asia/Jakarta] PHP Warning:  Array to string conversion in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 01:08:07 Asia/Jakarta] PHP Warning:  Undefined variable $Array in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 01:08:07 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 01:08:42 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:08:42 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:08:44 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:08:44 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:08:44 Asia/Jakarta] PHP Warning:  Array to string conversion in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 01:08:44 Asia/Jakarta] PHP Warning:  Undefined variable $Array in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 01:08:44 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 01:08:44 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 680
+[24-Apr-2023 01:09:40 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:09:40 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:09:41 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:09:41 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:10:04 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 680
+[24-Apr-2023 01:10:04 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:683
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(683): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 683
+[24-Apr-2023 01:10:04 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:10:04 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:10:05 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:10:05 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:10:05 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 680
+[24-Apr-2023 01:10:18 Asia/Jakarta] PHP Warning:  Array to string conversion in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 01:10:18 Asia/Jakarta] PHP Warning:  Undefined variable $Array in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 01:10:18 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 01:10:30 Asia/Jakarta] PHP Warning:  Array to string conversion in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 01:10:30 Asia/Jakarta] PHP Warning:  Undefined variable $Array in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 01:10:30 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 01:10:32 Asia/Jakarta] PHP Warning:  Array to string conversion in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 01:10:32 Asia/Jakarta] PHP Warning:  Undefined variable $Array in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 01:10:32 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 01:10:34 Asia/Jakarta] PHP Warning:  Array to string conversion in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 01:10:34 Asia/Jakarta] PHP Warning:  Undefined variable $Array in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 01:10:34 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 01:10:36 Asia/Jakarta] PHP Warning:  Array to string conversion in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 01:10:36 Asia/Jakarta] PHP Warning:  Undefined variable $Array in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 01:10:36 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 01:10:50 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:10:50 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:10:52 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:10:52 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:11:14 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 680
+[24-Apr-2023 01:11:14 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:683
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(683): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 683
+[24-Apr-2023 01:11:39 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:11:39 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:11:40 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:11:40 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:11:41 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 680
+[24-Apr-2023 01:12:28 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:12:28 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:12:30 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:12:30 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:12:50 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 680
+[24-Apr-2023 01:12:50 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:683
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(683): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 683
+[24-Apr-2023 01:13:09 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:13:09 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:13:10 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:13:10 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:13:10 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 680
+[24-Apr-2023 01:14:15 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:14:15 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:14:16 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:14:16 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:14:37 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 680
+[24-Apr-2023 01:14:37 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:683
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(683): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 683
+[24-Apr-2023 01:16:02 Asia/Jakarta] PHP Warning:  Array to string conversion in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 01:16:02 Asia/Jakarta] PHP Warning:  Undefined variable $Array in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 01:16:02 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/reset-proses.php on line 33
+[24-Apr-2023 01:16:54 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:16:54 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:16:55 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:16:55 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:17:16 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 680
+[24-Apr-2023 01:17:16 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:683
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(683): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 683
+[24-Apr-2023 01:17:51 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:17:51 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:17:53 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:17:53 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:17:53 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 680
+[24-Apr-2023 01:20:22 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:20:22 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:20:24 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:20:24 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:20:25 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 680
+[24-Apr-2023 01:21:42 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:21:42 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:21:43 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:21:43 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:21:52 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:21:52 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:21:54 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:21:54 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:21:54 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 680
+[24-Apr-2023 01:22:04 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 680
+[24-Apr-2023 01:22:04 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:683
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(683): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 683
+[24-Apr-2023 01:22:13 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:22:13 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:22:15 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:22:15 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:22:15 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:22:15 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:22:35 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 680
+[24-Apr-2023 01:22:35 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:683
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(683): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 683
+[24-Apr-2023 01:22:41 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:22:41 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:22:43 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:22:43 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:22:43 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 680
+[24-Apr-2023 01:27:08 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:27:08 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:27:10 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:27:10 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:27:11 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 680
+[24-Apr-2023 01:27:20 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:27:20 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:27:21 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:27:21 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:27:22 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:27:22 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:27:23 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:27:23 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:27:42 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 680
+[24-Apr-2023 01:27:42 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:683
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(683): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 683
+[24-Apr-2023 01:27:44 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 680
+[24-Apr-2023 01:27:44 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:683
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(683): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 683
+[24-Apr-2023 01:27:59 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:27:59 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:28:01 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:28:01 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:28:01 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 680
+[24-Apr-2023 01:28:15 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:28:15 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:28:16 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:28:16 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:28:16 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 680
+[24-Apr-2023 01:28:58 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:28:58 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:29:00 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:29:00 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:29:20 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 680
+[24-Apr-2023 01:29:20 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:683
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(683): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 683
+[24-Apr-2023 01:29:20 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:29:20 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:29:22 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:29:22 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:29:22 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 680
+[24-Apr-2023 01:29:36 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:29:36 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:29:37 Asia/Jakarta] PHP Warning:  Undefined variable $nickname in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:29:37 Asia/Jakarta] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 611
+[24-Apr-2023 01:29:37 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 680
+[24-Apr-2023 01:41:26 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:41:26 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:41:48 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 678
+[24-Apr-2023 01:41:48 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:681
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(681): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 681
+[24-Apr-2023 01:41:53 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:41:53 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:41:56 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/order_saldo.php on line 202
+[24-Apr-2023 01:41:59 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:41:59 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:42:23 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 678
+[24-Apr-2023 01:42:23 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:681
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(681): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 681
+[24-Apr-2023 01:43:00 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:43:00 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:43:04 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:43:04 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:43:06 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 678
+[24-Apr-2023 01:43:24 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:43:24 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:43:26 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 678
+[24-Apr-2023 01:43:26 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:681
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(681): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 681
+[24-Apr-2023 01:43:27 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/order_saldo.php on line 202
+[24-Apr-2023 01:43:51 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:43:51 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:44:11 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:44:11 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:44:14 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 678
+[24-Apr-2023 01:44:14 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:681
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(681): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 681
+[24-Apr-2023 01:44:35 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 678
+[24-Apr-2023 01:44:35 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:681
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(681): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 681
+[24-Apr-2023 01:44:41 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:44:41 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:44:43 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 678
+[24-Apr-2023 01:45:13 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:45:13 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:45:22 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:45:22 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:45:38 Asia/Jakarta] PHP Warning:  Undefined array key "trxid" in /home/topu3025/public_html/functions/order_saldo.php on line 678
+[24-Apr-2023 01:45:38 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:681
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(681): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 681
+[24-Apr-2023 01:45:45 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:681
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(681): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 681
+[24-Apr-2023 01:45:57 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:45:57 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:46:03 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:46:03 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:46:28 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:681
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(681): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 681
+[24-Apr-2023 01:46:36 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:46:36 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:46:52 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:46:52 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:47:06 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:47:06 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:47:36 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:47:36 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:47:58 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:681
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(681): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 681
+[24-Apr-2023 01:48:14 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:48:14 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:48:58 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:48:58 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:49:22 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:681
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(681): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 681
+[24-Apr-2023 01:49:49 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:49:49 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:50:35 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:50:35 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:50:58 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:50:58 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:50:58 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:681
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(681): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 681
+[24-Apr-2023 01:51:21 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:681
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(681): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 681
+[24-Apr-2023 01:52:54 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:52:54 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:53:16 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:681
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(681): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 681
+[24-Apr-2023 01:54:02 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:54:02 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:54:04 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/order_saldo.php on line 202
+[24-Apr-2023 01:54:35 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:54:35 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:55:27 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:55:27 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:55:49 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:681
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(681): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 681
+[24-Apr-2023 01:56:12 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:56:12 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:57:35 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 01:57:35 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 01:57:58 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:681
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(681): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 681
+[24-Apr-2023 02:01:57 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 02:01:57 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 02:03:15 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 02:03:15 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 02:03:32 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 02:03:32 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 02:03:36 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:681
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(681): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 681
+[24-Apr-2023 02:03:37 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 02:03:37 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 02:03:45 Asia/Jakarta] PHP Warning:  Undefined array key "pass" in /home/topu3025/public_html/functions/order_saldo.php on line 6
+[24-Apr-2023 02:03:45 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 6
+[24-Apr-2023 02:03:45 Asia/Jakarta] PHP Warning:  Undefined array key "pinTrx" in /home/topu3025/public_html/functions/order_saldo.php on line 7
+[24-Apr-2023 02:03:45 Asia/Jakarta] PHP Deprecated:  md5(): Passing null to parameter #1 ($string) of type string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 7
+[24-Apr-2023 02:03:45 Asia/Jakarta] PHP Warning:  Undefined array key "trxID" in /home/topu3025/public_html/functions/order_saldo.php on line 8
+[24-Apr-2023 02:03:57 Asia/Jakarta] PHP Warning:  Undefined array key "total" in /home/topu3025/public_html/functions/order_saldo.php on line 23
+[24-Apr-2023 02:03:57 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 02:05:21 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 02:08:04 Asia/Jakarta] PHP Warning:  Undefined array key "pass" in /home/topu3025/public_html/functions/order_saldo.php on line 6
+[24-Apr-2023 02:08:04 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 6
+[24-Apr-2023 02:08:04 Asia/Jakarta] PHP Warning:  Undefined array key "pinTrx" in /home/topu3025/public_html/functions/order_saldo.php on line 7
+[24-Apr-2023 02:08:04 Asia/Jakarta] PHP Deprecated:  md5(): Passing null to parameter #1 ($string) of type string is deprecated in /home/topu3025/public_html/functions/order_saldo.php on line 7
+[24-Apr-2023 02:08:04 Asia/Jakarta] PHP Warning:  Undefined array key "trxID" in /home/topu3025/public_html/functions/order_saldo.php on line 8
+[24-Apr-2023 02:08:18 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/topu3025/public_html/functions/order_saldo.php on line 22
+[24-Apr-2023 02:09:33 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 02:09:35 Asia/Jakarta] PHP Warning:  Undefined variable $productTitle in /home/topu3025/public_html/functions/order_saldo.php on line 381
+[24-Apr-2023 02:10:55 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 02:10:57 Asia/Jakarta] PHP Warning:  Undefined variable $productTitle in /home/topu3025/public_html/functions/order_saldo.php on line 381
+[24-Apr-2023 02:12:46 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 02:12:47 Asia/Jakarta] PHP Warning:  Undefined variable $productTitle in /home/topu3025/public_html/functions/order_saldo.php on line 381
+[24-Apr-2023 02:13:48 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 02:17:10 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 02:17:32 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:681
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(681): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 681
+[24-Apr-2023 02:17:32 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 02:21:20 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 02:21:37 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 02:21:42 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:681
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(681): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 681
+[24-Apr-2023 02:21:42 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 02:21:44 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 02:21:46 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 02:21:46 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 02:21:48 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 02:48:15 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 03:10:03 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 03:13:24 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 03:15:00 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 03:15:25 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:681
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(681): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 681
+[24-Apr-2023 03:15:40 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 03:15:46 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 03:20:51 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 03:21:16 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:681
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(681): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 681
+[24-Apr-2023 03:21:16 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 03:25:51 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 03:26:13 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/topu3025/public_html/functions/order_saldo.php:681
+Stack trace:
+#0 /home/topu3025/public_html/functions/order_saldo.php(681): mysqli_query()
+#1 {main}
+  thrown in /home/topu3025/public_html/functions/order_saldo.php on line 681
+[24-Apr-2023 03:26:26 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 03:30:48 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 03:49:25 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 04:24:10 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 04:27:49 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 04:30:44 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 10:12:09 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[24-Apr-2023 11:24:08 Asia/Jakarta] PHP Warning:  Undefined array key "085238968197" in /home/topu3025/public_html/functions/order_saldo.php on line 60
+[06-Oct-2023 06:28:00 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/u0434615/public_html/topupgame.my.id/functions/step-1.php on line 47
+[06-Oct-2023 06:28:05 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/u0434615/public_html/topupgame.my.id/functions/step-1.php on line 47
+[06-Oct-2023 06:28:18 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/u0434615/public_html/topupgame.my.id/functions/step-1.php on line 47
+[06-Oct-2023 06:28:23 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/u0434615/public_html/topupgame.my.id/functions/step-1.php on line 47
+[30-Oct-2023 12:48:34 Asia/Jakarta] PHP Notice:  Undefined index: metode in /home/u0434615/public_html/topupgame.my.id/functions/topup.php on line 35
+[18-Mar-2025 17:02:04 UTC] PHP Notice:  Undefined index: full_name in /home/idpe1917/public_html/royaltopup.my.id/functions/step-1.php on line 10
+[18-Mar-2025 17:02:04 UTC] PHP Notice:  Undefined index: no_hp in /home/idpe1917/public_html/royaltopup.my.id/functions/step-1.php on line 11
+[18-Mar-2025 17:02:04 UTC] PHP Notice:  Undefined index: user in /home/idpe1917/public_html/royaltopup.my.id/functions/step-1.php on line 12
+[18-Mar-2025 17:02:04 UTC] PHP Notice:  Undefined index: email in /home/idpe1917/public_html/royaltopup.my.id/functions/step-1.php on line 15
+[18-Mar-2025 17:02:04 UTC] PHP Notice:  Undefined index: no_hp in /home/idpe1917/public_html/royaltopup.my.id/functions/step-1.php on line 16
+[18-Mar-2025 17:02:04 UTC] PHP Notice:  Undefined index: pass in /home/idpe1917/public_html/royaltopup.my.id/functions/step-1.php on line 17
+[18-Mar-2025 17:02:05 UTC] PHP Notice:  Undefined index: pinTrx in /home/idpe1917/public_html/royaltopup.my.id/functions/step-1.php on line 19
